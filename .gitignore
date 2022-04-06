@@ -1,4 +1,4 @@
-/node_module
+node_modules
 .data/tokens/*.json
 .data/menus/*.json
 .data/orders/*.json
