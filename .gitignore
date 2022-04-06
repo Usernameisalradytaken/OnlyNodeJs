@@ -3,6 +3,7 @@
 .data/menus/*.json
 .data/orders/*.json
 .data/users/*.json
+.data/carts/*.json
 
 
 
